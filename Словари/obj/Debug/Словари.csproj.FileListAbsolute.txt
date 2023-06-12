@@ -1,0 +1,8 @@
+C:\Users\Chaklun\source\repos\Словари\bin\Debug\Словари.exe.config
+C:\Users\Chaklun\source\repos\Словари\bin\Debug\Словари.exe
+C:\Users\Chaklun\source\repos\Словари\bin\Debug\Словари.pdb
+C:\Users\Chaklun\source\repos\Словари\obj\Debug\Словари.csproj.AssemblyReference.cache
+C:\Users\Chaklun\source\repos\Словари\obj\Debug\Словари.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaklun\source\repos\Словари\obj\Debug\Словари.csproj.CoreCompileInputs.cache
+C:\Users\Chaklun\source\repos\Словари\obj\Debug\Словари.exe
+C:\Users\Chaklun\source\repos\Словари\obj\Debug\Словари.pdb
